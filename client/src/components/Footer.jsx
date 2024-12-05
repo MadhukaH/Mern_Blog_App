@@ -24,7 +24,7 @@ export default function FooterCom() {
                         target='_blank'
                         rel='noopener noreferrer'
                     >
-                        TechDisk Web
+                        TechDisk.com
                     </Footer.Link>
                     <Footer.Link 
                         href='/about'
